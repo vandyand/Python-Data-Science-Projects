@@ -23,3 +23,6 @@ For this competition I filled in missing age, embarkment port and fare price val
 
 # Predictions
 I used five models for training and prediction: logistic regression, random forrest, support vector, k nearest neighbors and gaussian naive bayes. Of these, gaussian naive bayes performed the best with a 78.5% accuracy. I also tried taking a weighted average of the model's predictions but this resulted in a slightly lower performance. Finally I tried a new project using recursive feature elimination and grid search with cross validation and beat my previous record with an optimized random forest classifier. My new high score is 79.4% which places me in the top 19% of the competition at time of writing.
+
+# Conclusion
+This competition showed that the devil is in the details. My best performing model used feature engineering, feature selection and grid search, all of which I had under-emphasized previously.
