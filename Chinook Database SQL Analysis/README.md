@@ -6,4 +6,4 @@ The questions this project answered are:
   3. What country should we focus advertising on going forward?
   4. Should we stop selling albums and only sell individual tracks?
 
-See the .ipynb file for the answers to these questions.
+See the [Chinook Database SQL Analysis.ipynb](https://github.com/vandyand/Python-Data-Science-Projects/edit/master/Chinook%20Database%20SQL%20Analysis/Chinook%20Database%20SQL%20Analysis.ipynb) file for the answers to these questions.
